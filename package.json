@@ -1,14 +1,14 @@
 {
-  "name": "dapp-scaffold",
+  "name": "solana-filament",
   "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/solana-labs/dapp-scaffold"
+    "url": "https://github.com/ignatius525/Iginition_Project"
   },
   "engines": {
-	  "node": "16.x",
-	  "yarn":"1.22.x"
+    "node": "16.x",
+    "yarn": "1.22.x"
   },
   "homepage": ".",
   "scripts": {
