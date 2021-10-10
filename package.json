@@ -12,8 +12,9 @@
   },
   "homepage": ".",
   "scripts": {
-    "start": "yarn start",
-    "test": "yarn test",
+    "start": "craco start",
+    "build": "yarn start",
+    "test": "craco test",
     "eject": "react-scripts eject",
     "program:build": "cd program && cargo build-bpf",
     "program:test": "cd program && cargo test-bpf",
