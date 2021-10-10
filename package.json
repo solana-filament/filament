@@ -1,13 +1,10 @@
 {
-  "name": "solana-filament",
+  "name": "dapp-scaffold",
   "version": "0.1.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ignatius525/Ignition_Project"
-  },
-  "engines": {
-	  "node": "16.x"
+    "url": "https://github.com/solana-labs/dapp-scaffold"
   },
   "homepage": ".",
   "scripts": {
